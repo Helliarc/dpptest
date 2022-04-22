@@ -4,7 +4,7 @@
 cmake_minimum_required(VERSION 3.20)
 
 #project name/version/description/language
-project(NewProject VERSION 1.0 DESCRIPTION "Description of your project..." LANGUAGES CXX)
+project(DPPLinuxTest VERSION 1.0 DESCRIPTION "Test of the DPP library compiling in the Linux(Ubuntu18.04-headless) environment" LANGUAGES CXX)
 
 # DPP Dependency Requirements:
 set(CMAKE_THREAD_PREFER_PTHREAD TRUE)
