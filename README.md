@@ -1,2 +1,2 @@
-# NewProject
-Custom default directory structure of a new C++ Project.  Clone when starting new project.
+# DPP Foundation Code
+Custom default directory structure of a new DPP Project.
